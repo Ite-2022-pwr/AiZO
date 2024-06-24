@@ -1,5 +1,7 @@
 # Algorytmy i złożoność obliczeniowa - projekty
 
+Informatyka techniczna, semestr 4, lato 2024
+
 ## Grupy [dr inż. Zbigniewa Buchalskiego](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/zbigniew-buchalski)
 
 ### Projekt 1 - sortowania
