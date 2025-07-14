@@ -22,8 +22,8 @@ Informatyka techniczna, semestr 4, lato 2024
 
 ### Projekt 1 - sortowania
 
-- [Mateusz Głuchowski](https://github.com/Ite-2022-pwr/sem4-aizo-proj-mg/tree/projekt-1)
+- [Mateusz Głuchowski](https://github.com/Ite-2022-pwr/sem4-aizo-proj-mg/tree/master/projekt-1)
 
 ### Projekt 2 - grafy
 
-- [Mateusz Głuchowski](https://github.com/Ite-2022-pwr/sem4-aizo-proj-mg/tree/projekt-2)
+- [Mateusz Głuchowski](https://github.com/Ite-2022-pwr/sem4-aizo-proj-mg/tree/master/projekt-2)
